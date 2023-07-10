@@ -4,7 +4,7 @@ import { FaQuoteRight, FaChevronLeft, FaChevronRight } from "react-icons/fa";
 
 const App = () => {
   const [index, setIndex] = useState(0);
-  const { id, name, job, image, text } = people[index];
+  const { name, job, image, text } = people[index];
 
   const checkNumber = (number) => {
     if (number < 0) {
