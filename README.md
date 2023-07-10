@@ -14,6 +14,10 @@
 
 HTML, CSS, JavaScript, ECMAScript, React - Hooks ~ useState
 
+#### Packages
+
+[React Icons](https://www.npmjs.com/package/react-icons)
+
 #### Deployment / Hosting
 
 Netlify
